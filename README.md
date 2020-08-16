@@ -6,18 +6,13 @@ When you launch the <a href="https://github.com/hamolicious/Tile-Set-Previewer/b
 <br><br>
 <strong>Things still to do</strong>
 <br>
-- [ ] Improve the flow of using the program (make it more automatic)
+- [x] Improve the flow of using the program (make it more automatic)
 - [ ] Add transparency support
 - [ ] Add stylesheet support
 <br><br><br>
 <br>
 <img src="https://i.ibb.co/7Q0TWdB/demo-of-tile-viewer.gif">
 <br>
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
 <br>
 <strong>Required</strong><br>
 Python 2.7-3.8<br>
