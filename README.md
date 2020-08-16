@@ -9,6 +9,7 @@ When you launch the <a href="https://github.com/hamolicious/Tile-Set-Previewer/b
 - [ ] Improve the flow of using the program (make it more automatic)
 - [ ] Add transparency support
 - [ ] Add stylesheet support
+- [ ] Add environment saving
 
 <br>
 <img src="https://i.ibb.co/7Q0TWdB/demo-of-tile-viewer.gif">
