@@ -6,7 +6,7 @@ When you launch the <a href="https://github.com/hamolicious/Tile-Set-Previewer/b
 <br>
 
 <strong>Things still to do</strong>
-- [x] Improve the flow of using the program (make it more automatic)
+- [ ] Improve the flow of using the program (make it more automatic)
 - [ ] Add transparency support
 - [ ] Add stylesheet support
 
