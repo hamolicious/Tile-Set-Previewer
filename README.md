@@ -13,22 +13,4 @@ When you launch the <a href="https://github.com/hamolicious/Tile-Set-Previewer/b
 
 <br>
 <img src="https://i.ibb.co/7Q0TWdB/demo-of-tile-viewer.gif">
-<br>
-<br>
-<strong>Required</strong><br>
-Python 2.7-3.8<br>
-Pygame 2.0.0.dev6<br>
 
-To use this script use the following commands:
-```
-pip install pygame
-
-git clone <URL>
-cd <REPO NAME>
-python main.py
-```
-
-Please create issues to tell me what you like/don't like about this project.
-If I missed anything please create an issue too!
-
- - Hamolicious
